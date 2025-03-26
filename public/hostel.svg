@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
+  <!-- Building outline -->
+  <rect x="20" y="30" width="60" height="60" fill="#4B5563" />
+  
+  <!-- Roof -->
+  <polygon points="10,30 50,10 90,30" fill="#1F2937" />
+  
+  <!-- Door -->
+  <rect x="40" y="60" width="20" height="30" fill="#D1D5DB" />
+  <circle cx="55" cy="75" r="2" fill="#4B5563" />
+  
+  <!-- Windows -->
+  <rect x="25" y="40" width="15" height="15" fill="#D1D5DB" />
+  <rect x="60" y="40" width="15" height="15" fill="#D1D5DB" />
+  
+  <!-- Sign -->
+  <rect x="35" y="35" width="30" height="10" fill="#3B82F6" />
+  <text x="38" y="43" font-family="Arial" font-size="8" fill="white">HOSTEL</text>
+</svg> 
